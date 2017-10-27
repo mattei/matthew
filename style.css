@@ -13,8 +13,12 @@ body {
 }
 
 h1 {
-  margin: 1rem 0 .5rem 0;
-  font-size: 2.25rem;
+  margin: 1rem 0 0rem 0;
+  font-size: 2rem;
+}
+
+h2 {
+  margin: 3rem 0 .5rem 0;
 }
 
 h3 {
@@ -36,6 +40,14 @@ ul {
 li {
   line-height: 1.25;
   list-style: none;
+}
+
+blockquote {
+   font-style: italic;
+}
+
+.subtitle {
+  margin: 0.25rem 0 0 0;
 }
 
 .corner-ribbon{
